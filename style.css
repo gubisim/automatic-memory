@@ -1,0 +1,32 @@
+body{
+    color:blue;
+    font-size: smaller;
+    background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSP1Jfa30eDLz1JuWYEASO8CthwA3SiVhrmUHS7YJ3UZOZBteflywt53w);
+    background-size: cover;
+}
+
+table{
+    font-family: fantasy;
+}
+
+h1{
+   font-weight: bolder; 
+}
+table{
+    border: dotted;
+}
+td:first-of-type{
+    color:green;
+}
+td:nth-child(2){
+    color:gray;
+}
+img{
+    vertical-align: bottum;
+}    
+p:hover{
+    text-align: right;
+}
+a:visited{
+    color: brown;
+}
